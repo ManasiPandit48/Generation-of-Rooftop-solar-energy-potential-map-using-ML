@@ -1,0 +1,1 @@
+# Generation-of-Rooftop-solar-energy-potential-map-using-ML
